@@ -1,0 +1,73 @@
+body{
+  font: 15px Lato,sans-serif;
+  
+}
+.intro{
+  text-align: center;
+  padding-top: 300px;
+  padding-bottom: 350px;
+  background-image: url("bg1.png");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.text{
+position: absolute;
+width: auto;
+height: auto;
+left: 469px;
+right: auto;
+background-color: #EC775E;
+border-radius: 10px;
+bottom: 50%;
+padding-left: 10px;
+padding-right: 10px;
+}
+.text2{
+  position: absolute;
+    height: auto;
+    width: auto;
+    left: 550px;
+    right: auto;
+    background-color: #EC775E;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.text3{
+  padding: 200px;
+}
+h2 ,h1{
+  letter-spacing: 5px;
+}
+.content{
+  text-align: center;
+  padding: 50px 80px 50px 80px;
+  line-height: 30px;
+}
+.height{
+  background-image: url("bg2.png");
+  width: 1349px;
+  height: 400px;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+.scroll{
+  background-image: url("bg3.png");
+  width: 1349px;
+  height: 400px;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+
+}
+.line{
+  background-color: #882812;
+  text-align: justify;
+  color: white;
+  word-spacing: 10px;
+  letter-spacing: 1px;
+  width: 1890px;
+  height: 57px;
+}
